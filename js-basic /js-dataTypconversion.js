@@ -1,6 +1,4 @@
-//  js basics 
-let ar = "js basics"
-console.log(ar);
+// date -20Aug 
 
 let scoore = "35ssf";
 let scoore_num = Number(scoore);
