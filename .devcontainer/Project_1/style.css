@@ -1,0 +1,23 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+.button {
+  width: 150px;
+  height: 150px;
+}
+.red {
+  background-color: red;
+}
+.green {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+.gay {
+  background-color: gray;
+}
